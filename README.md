@@ -1,2 +1,2 @@
 # SampleDatabases
-ဒီ project ေလးက database အေျခခံေလးပါ ေလ့လၾကည့္ခ်င္သူမ်ား ေလ့လာႏိုင္ပါတယ္ 
+ဒီ project လေးက database အခြေခံ project လေးပါ . လေ့လာချင်သူများ လေ့လာနိုင်ပါတယ် .....
